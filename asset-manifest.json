@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chronovis-paintbox/static/css/main.bec9d934.chunk.css",
-    "main.js": "/chronovis-paintbox/static/js/main.e0cabc30.chunk.js",
-    "main.js.map": "/chronovis-paintbox/static/js/main.e0cabc30.chunk.js.map",
+    "main.js": "/chronovis-paintbox/static/js/main.afade38a.chunk.js",
+    "main.js.map": "/chronovis-paintbox/static/js/main.afade38a.chunk.js.map",
     "runtime-main.js": "/chronovis-paintbox/static/js/runtime-main.0dc208f4.js",
     "runtime-main.js.map": "/chronovis-paintbox/static/js/runtime-main.0dc208f4.js.map",
     "static/js/2.0b5b864e.chunk.js": "/chronovis-paintbox/static/js/2.0b5b864e.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/chronovis-paintbox/index.html",
     "static/css/main.bec9d934.chunk.css.map": "/chronovis-paintbox/static/css/main.bec9d934.chunk.css.map",
     "static/js/2.0b5b864e.chunk.js.LICENSE.txt": "/chronovis-paintbox/static/js/2.0b5b864e.chunk.js.LICENSE.txt",
-    "static/js/main.e0cabc30.chunk.js.LICENSE.txt": "/chronovis-paintbox/static/js/main.e0cabc30.chunk.js.LICENSE.txt",
+    "static/js/main.afade38a.chunk.js.LICENSE.txt": "/chronovis-paintbox/static/js/main.afade38a.chunk.js.LICENSE.txt",
     "static/media/causation.69c429dd.svg": "/chronovis-paintbox/static/media/causation.69c429dd.svg",
     "static/media/connection1.f02e0c1d.svg": "/chronovis-paintbox/static/media/connection1.f02e0c1d.svg",
     "static/media/edit.da55abfe.svg": "/chronovis-paintbox/static/media/edit.da55abfe.svg",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.0dc208f4.js",
     "static/js/2.0b5b864e.chunk.js",
     "static/css/main.bec9d934.chunk.css",
-    "static/js/main.e0cabc30.chunk.js"
+    "static/js/main.afade38a.chunk.js"
   ]
 }
