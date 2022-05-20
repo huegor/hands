@@ -1,0 +1,14 @@
+nav {
+  position:fixed;
+  background-color: $uiColor;
+  z-index: 1;
+}
+
+.icon {
+  width: $vPadding*4.2;
+}
+
+.toolActive {
+  background: $accentColorLight;
+  fill: $accentColorDark;
+}
