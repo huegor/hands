@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hands/static/css/main.bec9d934.chunk.css",
-    "main.js": "/hands/static/js/main.afade38a.chunk.js",
-    "main.js.map": "/hands/static/js/main.afade38a.chunk.js.map",
+    "main.js": "/hands/static/js/main.e0cabc30.chunk.js",
+    "main.js.map": "/hands/static/js/main.e0cabc30.chunk.js.map",
     "runtime-main.js": "/hands/static/js/runtime-main.433af39a.js",
     "runtime-main.js.map": "/hands/static/js/runtime-main.433af39a.js.map",
     "static/js/2.0b5b864e.chunk.js": "/hands/static/js/2.0b5b864e.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/hands/index.html",
     "static/css/main.bec9d934.chunk.css.map": "/hands/static/css/main.bec9d934.chunk.css.map",
     "static/js/2.0b5b864e.chunk.js.LICENSE.txt": "/hands/static/js/2.0b5b864e.chunk.js.LICENSE.txt",
-    "static/js/main.afade38a.chunk.js.LICENSE.txt": "/hands/static/js/main.afade38a.chunk.js.LICENSE.txt",
+    "static/js/main.e0cabc30.chunk.js.LICENSE.txt": "/hands/static/js/main.e0cabc30.chunk.js.LICENSE.txt",
     "static/media/causation.69c429dd.svg": "/hands/static/media/causation.69c429dd.svg",
     "static/media/connection1.f02e0c1d.svg": "/hands/static/media/connection1.f02e0c1d.svg",
     "static/media/edit.da55abfe.svg": "/hands/static/media/edit.da55abfe.svg",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.433af39a.js",
     "static/js/2.0b5b864e.chunk.js",
     "static/css/main.bec9d934.chunk.css",
-    "static/js/main.afade38a.chunk.js"
+    "static/js/main.e0cabc30.chunk.js"
   ]
 }
